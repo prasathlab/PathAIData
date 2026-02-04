@@ -181,4 +181,4 @@ The aim of this repository is to centralize information on diverse histopatholog
 # Pathology Public Datasets for Artificial Intelligence: A Systematic Review
 
 - #### Authors</ins>: Aniketh Reddy Chinnachinnanagari, Shyam Sundar Debsarkar \& Surya Prasath 
-- #### Journal : Journal of Imaging Informatics in Medicine (Under Review)
+- #### Journal : Journal of Imaging Informatics in Medicine (Revised, February 2026)

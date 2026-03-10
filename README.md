@@ -182,3 +182,4 @@ The aim of this repository is to centralize information on diverse histopatholog
 
 - #### Authors</ins>: Aniketh Reddy Chinnachinnanagari, Shyam Sundar Debsarkar \& Surya Prasath 
 - #### Journal : Journal of Imaging Informatics in Medicine, 2026
+- #### https://doi.org/10.1007/s10278-026-01899-y
